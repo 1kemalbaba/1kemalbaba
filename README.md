@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+
 <div align="center">
   <img src="https://via.placeholder.com/1200x300.png?text=Kemal+Emre+Ozdemir+-+Engineer+of+Tomorrow" alt="Header Banner" style="width:100%; max-width:1200px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
   <h1>Kemal Emre Ozdemir</h1>
