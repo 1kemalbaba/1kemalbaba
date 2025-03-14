@@ -1,12 +1,27 @@
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Hi!+I’m+Kemal+Emre+Ozdemir+-+Blockchain+Visionary" alt="Kemal Emre Ozdemir Banner" style="width:100%; max-width:1200px; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mrkemalemreozde&label=Profile+Views&color=12&icon=5&pretty=true" alt="Visitor Counter">
+</div>
+
+<!-- Typing Animation Tagline -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=435&lines=Blockchain+Visionary;Software+Architect;Philosopher+of+Code" alt="Typing SVG">
+  </a>
+</div>
+
+---
+
 ## 👨‍💻 Who Am I?
 
 I’m **Kemal Emre Ozdemir**, a Computer Engineering and Software student at Warsaw Management University, but I’m more than just a coder—I’m a **dreamer**, a **builder**, and a **future-shaper**. I live at the crossroads of **blockchain innovation**, **software craftsmanship**, and **financial mastery**, with philosophy as my guiding star. My mission? To create technology that empowers humanity, redefines trust, and inspires awe.
 
 > “The best way to predict the future is to invent it.” – Alan Kay
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding GIF">
-</div>
 
 ---
 
@@ -16,6 +31,16 @@ I’m **Kemal Emre Ozdemir**, a Computer Engineering and Software student at War
 - **Frameworks & Libraries**: p5.js  
 - **Tools**: Git, GitHub, Replit  
 - **Emerging Tech**: Blockchain, Smart Contracts, Web3, DApps  
+
+### Skill Progress
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Languages"><br>
+  <img src="https://progress-bar.dev/90/?title=HTML" alt="HTML Progress">
+  <img src="https://progress-bar.dev/85/?title=CSS" alt="CSS Progress">
+  <img src="https://progress-bar.dev/80/?title=JavaScript" alt="JavaScript Progress">
+  <img src="https://progress-bar.dev/75/?title=Python" alt="Python Progress">
+  <img src="https://progress-bar.dev/70/?title=Solidity" alt="Solidity Progress">
+</div>
 
 ---
 
@@ -32,6 +57,14 @@ Step into my world of innovation:
   *The classic game, reborn with p5.js—stack, score, conquer!*  
 - **[Dino](https://replit.com/@mrkemalemreozde/Dino)**  
   *An endless runner where a dino dashes through obstacles, built with HTML, CSS, and JS.*  
+- **[CryptoTracker](https://replit.com/@mrkemalemreozde/CryptoTracker)**  
+  *A real-time cryptocurrency price tracker using JavaScript and an API, perfect for market enthusiasts.*  
+- **[BlockChainSim](https://replit.com/@mrkemalemreozde/BlockChainSim)**  
+  *A Python simulation of a basic blockchain, exploring decentralized data structures.*  
+- **[PortfolioWebsite](https://replit.com/@mrkemalemreozde/PortfolioWebsite)**  
+  *A sleek, responsive personal portfolio built with HTML, CSS, and JavaScript to showcase my journey.*  
+- **[SmartContractDemo](https://replit.com/@mrkemalemreozde/SmartContractDemo)**  
+  *A beginner-friendly Solidity smart contract demo, introducing Web3 concepts.*  
 
 ---
 
@@ -63,6 +96,7 @@ I envision a world where technology isn’t just a tool—it’s a movement. Blo
 
 ---
 
+
 ## 📊 My Code Legacy
 
 <div align="center">
@@ -77,7 +111,6 @@ I envision a world where technology isn’t just a tool—it’s a movement. Blo
 
 - **Email**: [mrkemalemreozdemir@gmail.com](mailto:mrkemalemreozdemir@gmail.com)  
 - **LinkedIn**: [Kemal Emre Ozdemir](https://www.linkedin.com/in/kemal-emre-ozdemir/)  
- 
 
 
 ---
