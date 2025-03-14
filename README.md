@@ -79,15 +79,7 @@ I envision a world where technology isn’t just a tool—it’s a movement. Blo
 ---
 
 
-## 📊 My Code Legacy
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrkemalemreozde&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkemalemreozde&theme=dracula&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkemalemreozde&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</div>
-
----
 
 ## 📡 Let’s Build Tomorrow
 
