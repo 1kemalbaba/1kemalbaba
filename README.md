@@ -16,12 +16,12 @@ I’m **Kemal Emre Ozdemir**, a Computer Engineering and Software student at War
 
 ### Skill Progress
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Languages"><br>
-  <img src="https://progress-bar.dev/90/?title=HTML" alt="HTML Progress">
-  <img src="https://progress-bar.dev/85/?title=CSS" alt="CSS Progress">
-  <img src="https://progress-bar.dev/80/?title=JavaScript" alt="JavaScript Progress">
-  <img src="https://progress-bar.dev/75/?title=Python" alt="Python Progress">
-  <img src="https://progress-bar.dev/70/?title=Solidity" alt="Solidity Progress">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" 
+  <img src="https://progress-bar.dev/90/?title=HTML" 
+  <img src="https://progress-bar.dev/85/?title=CSS" 
+  <img src="https://progress-bar.dev/80/?title=JavaScript" 
+  <img src="https://progress-bar.dev/75/?title=Python" 
+  <img src="https://progress-bar.dev/70/?title=Solidity" 
 </div>
 
 ---
