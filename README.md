@@ -1,10 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Hi!+I’m+Kemal+Emre+Ozdemir+-+Blockchain+Visionary" alt="Kemal Emre Ozdemir Banner" style="width:100%; max-width:1200px; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
-</div>
-
----
-
 ## 👨‍💻 Who Am I?
 
 I’m **Kemal Emre Ozdemir**, a Computer Engineering and Software student at Warsaw Management University, but I’m more than just a coder—I’m a **dreamer**, a **builder**, and a **future-shaper**. I live at the crossroads of **blockchain innovation**, **software craftsmanship**, and **financial mastery**, with philosophy as my guiding star. My mission? To create technology that empowers humanity, redefines trust, and inspires awe.
