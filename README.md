@@ -1,21 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Hi!+I’m+Kemal+Emre+Ozdemir+-+Blockchain+Visionary" alt="Kemal Emre Ozdemir Banner" style="width:100%; max-width:1200px; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
-</div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mrkemalemreozde&label=Profile+Views&color=12&icon=5&pretty=true" alt="Visitor Counter">
-</div>
-
-<!-- Typing Animation Tagline -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=435&lines=Blockchain+Visionary;Software+Architect;Philosopher+of+Code" alt="Typing SVG">
-  </a>
-</div>
-
----
 
 ## 👨‍💻 Who Am I?
 
