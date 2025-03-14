@@ -1,4 +1,3 @@
-
 ## 👨‍💻 Who Am I?
 
 I’m **Kemal Emre Ozdemir**, a Computer Engineering and Software student at Warsaw Management University, but I’m more than just a coder—I’m a **dreamer**, a **builder**, and a **future-shaper**. I live at the crossroads of **blockchain innovation**, **software craftsmanship**, and **financial mastery**, with philosophy as my guiding star. My mission? To create technology that empowers humanity, redefines trust, and inspires awe.
